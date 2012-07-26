@@ -37,20 +37,20 @@
 		CE41F36D15C1B3A600241ED5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		CE41F36F15C1B3A600241ED5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CE41F37115C1B3A600241ED5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		CE41F37515C1B3A600241ED5 /* teste04-Info.plist */ = {isa = PBXFileReference; path = "teste04-Info.plist"; sourceTree = "<group>"; };
+		CE41F37515C1B3A600241ED5 /* teste04-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "teste04-Info.plist"; sourceTree = "<group>"; };
 		CE41F37715C1B3A600241ED5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CE41F37915C1B3A600241ED5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		CE41F37B15C1B3A600241ED5 /* teste04-Prefix.pch */ = {isa = PBXFileReference; path = "teste04-Prefix.pch"; sourceTree = "<group>"; };
-		CE41F37C15C1B3A600241ED5 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		CE41F37B15C1B3A600241ED5 /* teste04-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "teste04-Prefix.pch"; sourceTree = "<group>"; };
+		CE41F37C15C1B3A600241ED5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		CE41F37D15C1B3A600241ED5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		CE41F38015C1B3A600241ED5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		CE41F38215C1B3A600241ED5 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		CE41F38215C1B3A600241ED5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		CE41F38315C1B3A600241ED5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		CE41F38A15C1B3A600241ED5 /* teste04Tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = teste04Tests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE41F38B15C1B3A600241ED5 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		CE41F39315C1B3A700241ED5 /* teste04Tests-Info.plist */ = {isa = PBXFileReference; path = "teste04Tests-Info.plist"; sourceTree = "<group>"; };
+		CE41F39315C1B3A700241ED5 /* teste04Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "teste04Tests-Info.plist"; sourceTree = "<group>"; };
 		CE41F39515C1B3A700241ED5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		CE41F39715C1B3A700241ED5 /* teste04Tests.h */ = {isa = PBXFileReference; path = teste04Tests.h; sourceTree = "<group>"; };
+		CE41F39715C1B3A700241ED5 /* teste04Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = teste04Tests.h; sourceTree = "<group>"; };
 		CE41F39815C1B3A700241ED5 /* teste04Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = teste04Tests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
