@@ -26,6 +26,8 @@
     // Release any retained subviews of the main view.
     // linha 01
     // linha 02
+    // linha03
+    
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
